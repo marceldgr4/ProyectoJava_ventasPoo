@@ -1,0 +1,4 @@
+0;1;fee;huawi;3;8789.0;2021/08/12;2021/09/08;false;false
+1;1;ana;carro;2;1.0E7;2021/08/12;2021/09/08;false;false
+0;1;fee;huawi;3;8789.0;2021/08/12;2021/09/08;false;false
+1;1;ana;carro;2;1.0E7;2021/08/12;2021/09/08;false;true

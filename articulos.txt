@@ -1,0 +1,7 @@
+0;iphone;9;1000000.0;true
+1;iphone;9;1000.0;false
+2;huawi;5;8789.0;false
+3;camara;3;5789.0;true
+4;carro;1;1.0E7;true
+5;moto;4;40000.0;true
+6;biclie;2;8000.0;true
